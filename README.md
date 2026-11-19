@@ -2,7 +2,7 @@
 
 Winamp 5 Modern recreated in pure **Web Components** (`light DOM`, zero framework runtime) with [`@ui-sdk/web`](https://ui-sdk.dev/docs/web-components) and [`@ui-sdk/core`](https://github.com/vercel-labs/ui), featuring a live 10-band Web Audio BiquadFilter equalizer, 60fps spectrum/oscilloscope LCD, elastic Full View, responsive mobile mode, WebMCP agent control, and 5 original Suno v6 tracks.
 
-Live: https://mkwebcraft,in
+Live: https://mkwebcraft.in
 
 ## UI SDK Primitives & Behaviors Used
 
